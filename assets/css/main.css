@@ -3180,15 +3180,8 @@ section .banner .titleNews {
   margin: -60px 0 0 -170px;
   text-shadow: 0 2px 3px #333;
 }
-/* line 21, ../sass/news.scss */
-section h2 {
-  width: 1120px;
-  margin: 96px auto 67px auto;
-}
-/* line 25, ../sass/news.scss */
-section h2.m-b {
-  margin-bottom: 27px;
-}
+
+
 /* line 28, ../sass/news.scss */
 section ul.highWide {
   width: 1120px;
