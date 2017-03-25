@@ -1317,7 +1317,7 @@ footer ul li{
     float: left;
     margin-right: 5px;
 }
-footer ul li a{
+/*footer ul li a{
     display: inline-block;
     font-size: 16px;
     line-height: 38px;
@@ -1333,7 +1333,22 @@ footer ul li a{
 footer ul li a:hover, footer ul li a:focus{
     background-color: #00BFFF;
     color: #fff;
+}*/
+#footer ul li a{
+    display: inline;
+    font-size: 14px;
+    line-height: 30px;
+    color: #252525;
+    height: 36px;
+    width: 36px;
+    text-align: center;
+    -webkit-transition: .25s;
+    transition: .25s;
 }
+#footer ul li a:hover, #footer ul li a:focus{
+    color: #fff;
+}
+
 .scroll-top{
         position: absolute;
     right: 50%;
